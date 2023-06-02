@@ -138,7 +138,7 @@ Home Section Style
 -------------------------------------------*/
 
 #home{
-    background: url(../images/planets.jpg) no-repeat 50% 50%;
+    background: url(../images/Thumb/thumbnail_1.jpeg) no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-backround-size:cover;
     -moz-background-size:cover;
@@ -221,7 +221,7 @@ Home Section Style
     width: 70%;
     text-align: center;
     margin: 0 auto;
-    color: #13161B;
+    color: #b858ce;
     font-weight: 900;
     font-size: 1.5em;
     font-variant: small-caps;
@@ -252,7 +252,7 @@ Home Section Style
 }
 
 .booking input [type="text"]{
-    font-size: 15px;
+    font-size: 20px;
     outline: none;
     font-weight: 600;
     color: #8d8e8f;
@@ -263,10 +263,11 @@ Home Section Style
     border-bottom: 2px solid #424549;
     border-left: 1px solid #090b0d;
     margin: 10px 1em;
-    border-radius: 7px;
+    border-radius: 10px;
     background: #13161B;
     box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
     font-family: 'raleway', sans-serif;
+    
 }
 
 .booking input[type="text"]:hover {
